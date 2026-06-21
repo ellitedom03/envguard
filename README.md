@@ -78,16 +78,3 @@ If this tool saves you time, consider [sponsoring](https://github.com/sponsors/e
 Created by [HamdenTwins Digital](https://payhip.com/HamdenTwinsDigital)
 
 ---
-
-## 💰 Support This Project
-
-This tool is free and open source. If you find it useful, here are services I personally use and recommend:
-
-| Service | Why | Link |
-|---------|-----|------|
-| 🟢 **WP Engine** | Managed WordPress hosting — $200 credit | [Get Started](https://shareasale.com/r.cfm?b=XXX&u=hamdentwins) |
-| 🔵 **SiteGround** | Fast, reliable hosting from $3.99/mo | [Get Started](https://www.siteground.com/go/hamdentwins) |
-
-*Full disclosure: I earn a commission if you sign up through these links, at no extra cost to you.*
-
-**[🛒 100 CLI Tools Store — payhip.com/HamdenTwinsDigital](https://payhip.com/HamdenTwinsDigital)**
